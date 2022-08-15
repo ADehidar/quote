@@ -1,0 +1,794 @@
+{
+    "quotes": [
+        {
+            "id": "1",
+            "title": "Idea-logy",
+            "text": "Your Mind is for Having Ideas, Not for holding them."
+        },
+        {
+            "id": "2",
+            "title": "Leap-over",
+            "text": "Life's problems wouldn't be called hurdles if there wasn't a way to get over them."
+        },
+        {
+            "id": "3",
+            "title": "Acquire Mastery",
+            "text": "Fear not the man who has practiced 10,0000 kicks once, but fear the man who has PRACTICED ONE KICK 10,000 TIMES."
+        },
+        {
+            "id": "4",
+            "title": "Universal-language",
+            "text": "Even in the absence of language and shared culture members of completely disconnected tribes use smiles in the same situation and to convey the same meanings as you and we do.Smiles have incredible transformative powers that can dramatically and quickly change social situations, break-down barriers while forming connections and foster happiness."
+        },
+        {
+            "id": "5",
+            "title": "True-Commonalities",
+            "text": "We come from different cultures, speak different languages, and hold different beliefs. Despite our diversity, we all have fears, we all have hopes, and we all need love. Absurd but powerfully true."
+        },
+        {
+            "id": "6",
+            "title": "Poise",
+            "text": "Life gets easier when you genuinely feel an inner confidence. Not cocky self-absorption or a fake-it-till-you-make-it attitude, but true comfort in your skin, radiant openness with others, and an understanding of your uniqueness."
+        },
+        {
+            "id": "7",
+            "title": "A Conclusion",
+            "text": "An athlete may run ten thousand miles in order to prepare for one hundred yards. QUANTITY GIVES EXPERIENCE."
+        },
+        {
+            "id": "8",
+            "title": "Traps",
+            "text": "Always watch your habits very carefully. Are they serving you or have they enslaved you?"
+        },
+        {
+            "id": "9",
+            "title": "Mediocrity",
+            "text": "If you limit your choices only to what seems reasonable, you disconnect yourself from what you truly want, and all that is left is a compromise."
+        },
+        {
+            "id": "10",
+            "title": "Valiant",
+            "text": "A hero is an ordinary individual who FINDS THE STRENGTH to persevere and endure in spite of overwhelming obstacles."
+        },
+        {
+            "id": "11",
+            "title": "Magnificence",
+            "text": "Being rich of heart makes you wealthy beyond compare."
+        },
+        {
+            "id": "12",
+            "title": "Omnipresence",
+            "text": "There are no spiritual moments ... every moment is spiritual. There are no spiritual places. Every place is spiritual."
+        },
+        {
+            "id": "13",
+            "title": "Exploit",
+            "text": "Nothing is more pitiful than a guy who is smart... and broke. You have Got TO DO something with your smarts."
+        },
+        {
+            "id": "14",
+            "title": "Counteracts",
+            "text": "What happens to you doesn't determine your destiny. What happens to you happens to all of us. It is how you RESPOND to what happens to you that determines your destiny."
+        },
+        {
+            "id": "15",
+            "title": "Right Criterion",
+            "text": "End is not the end, in fact END is \"Effort Never Dies\" and if you get No in an answer, then remember NO is \"Next Opportunity\". Always be positive."
+        },
+        {
+            "id": "16",
+            "title": "Ideal Models",
+            "text": "The attitude you have as a parent is what your kids will learn from more than what you tell them. They don't remember what you try to tech them. They remember what you are."
+        },
+        {
+            "id": "17",
+            "title": "With Positivity",
+            "text": "Smile is the first thing you should do when you wake up every morning. It sounds simplistic, but try it yourself and you'll discover the magic  of this simple act : when your first act of the day is to smile your entire day is primed in a positive way and you begin your day with a fresh. optimistic start."
+        },
+        {
+            "id": "18",
+            "title": "Exhilaration",
+            "text": "Roller-coaster, bungee-jumping, sky-diving and many other man-made attraction are put in place to give people an adrenaline rush, a sensation that while it is happening, you are out of control and terrified. The pay-off is when its over! Your heart is racing, your palms are sweating and perhaps you are even feeling nauseous BUT YOU DID IT!"
+        },
+        {
+            "id": "19",
+            "title": "Adaptations",
+            "text": "Ego can get in the way of everything. Be humble; understand you are a (small) part of the world. Be teachable; focus on what you learn, rather than what you know. Almost everything you learn comes from the work of someone else. Listen more; make every effort to truly understand what others are saying. Appreciate people; enjoy others contributions, and don't squelch ideas. Relax, let go of the need to be right or win every time."
+        },
+        {
+            "id": "20",
+            "title": "Karma",
+            "text": "Medals and titles will not count when you get to heaven, but you may be looked over carefully for short deeds you have done. It is fundamental principle of many religions, that in the afterlife the only real measure of success will be how you have lived your life, not how much money you have accumulated."
+        },
+        {
+            "id": "21",
+            "title": "Apology",
+            "text": "Right actions for the future are the best apologies for wrong ones in the past."
+        },
+        {
+            "id": "22",
+            "title": "Virtues",
+            "text": "The three QUALITIES necessary for training: Great faith. Great doubt. Great effort."
+        },
+        {
+            "id": "23",
+            "title": "Trial and Error",
+            "text": "There are no rules. You don't learn to walk by following rules. You learn by doing, and by failing over, and its because you fall over that you LEARN TO SAVE yourself from falling over."
+        },
+        {
+            "id": "24",
+            "title": "Best-shot",
+            "text": "The man who has done his best has done everything."
+        },
+        {
+            "id": "25",
+            "title": "Blessedness",
+            "text": "Most people have never learned that one of the main aims in life is to enjoy it."
+        },
+        {
+            "id": "26",
+            "title": "Agony",
+            "text": "Try not to worry. Try to look a what you're going through as a challenge rather than an obstacle, a time to develop patience."
+        },
+        {
+            "id": "27",
+            "title": "Limitise",
+            "text": "SET BOUNDARIES with your time, energy and money. Respect them."
+        },
+        {
+            "id": "28",
+            "title": "Will-power",
+            "text": "Determine that the thing can and shall be done, and then we shall find the way."
+        },
+        {
+            "id": "29",
+            "title": "Experience",
+            "text": "Sometimes you win! Sometimes you learn."
+        },
+        {
+            "id": "30",
+            "title": "Recreated",
+            "text": "Like a lump of clay in the hands of the creator, we are forever being MOULDED by life's experiences."
+        },
+        {
+            "id": "31",
+            "title": "Contrive",
+            "text": "Life is a game of Chess, learn to play it wisely."
+        },
+        {
+            "id": "32",
+            "title": "Decline",
+            "text": "No power in society, no hardship in your condition can DEPRESS you, keep you down, in knowledge, power, virtue, influence, but by your own consent."
+        },
+        {
+            "id": "33",
+            "title": "Vocation",
+            "text": "Plenty of people MISS THEIR SHARE of happiness, not because they never found it, but because they didn't stop to enjoy it."
+        },
+        {
+            "id": "34",
+            "title": "Maxim",
+            "text": "RULE YOUR MIND or it will rule you."
+        },
+        {
+            "id": "35",
+            "title": "Work Ethics",
+            "text": "Working smarter is a RESULT OF HARD WORK; not a replacement for it."
+        },
+        {
+            "id": "36",
+            "title": "Vitamins",
+            "text": "Tough times are like physical exercise. You may not like it while you are doing it, but tomorrow you will be stronger because of it."
+        },
+        {
+            "id": "37",
+            "title": "Real Soul-mate",
+            "text": "The person you'll have with you always is YOU. ..take good care of yourself."
+        },
+        {
+            "id": "38",
+            "title": "Preference",
+            "text": "It does not take much strength to do things, but requires a great deal of strength to DECIDE what to do."
+        },
+        {
+            "id": "39",
+            "title": "Curiosity",
+            "text": "Millions saw the apple fall, but Newton asked why."
+        },
+        {
+            "id": "40",
+            "title": "Amiable",
+            "text": "Go twenty-four hours without complaining (not even once). Then watch how your life starts changing."
+        },
+        {
+            "id": "41",
+            "title": "Hassle",
+            "text": "Life is like a walk. When you get tired, you rest; but remember that you have to get there, so FIGHT HARD to get what you want in life."
+        },
+        {
+            "id": "42",
+            "title": "Groundwork",
+            "text": "You can be good with a little effort. You can be really good with a little more effort. But you can't be great - at anything - unless you put in an incredible amount of focussed effort. Scratch the surface of any person with rare skills and you'll find a person who has put thousand of hours of effort into developing those skills."
+        },
+        {
+            "id": "43",
+            "title": "Milestones",
+            "text": "Problems are not stop signs, they are guidelines. Hence; get excited about your problems. Don't hope to get to a place where you have no problems. Create higher quality problems!"
+        },
+        {
+            "id": "44",
+            "title": "Excellence",
+            "text": "We do everything better if we're smiling in our hearts."
+        },
+        {
+            "id": "45",
+            "title": "Nature",
+            "text": "Rainwater harvesting is just as mimicking what nature has done for millions of years in the form of groundwater and putting it to good use in our gardens."
+        },
+        {
+            "id": "46",
+            "title": "Alluring",
+            "text": "A person who has good thoughts cannot ever be ugly. You can have a wonky nose and a crooked mouth and a double chin and stick-out teeth, but if you have good thoughts they will shine out of your face like sunbeams and you will always look lovely."
+        },
+        {
+            "id": "47",
+            "title": "Trickster",
+            "text": "Laziness allows you to take life easy and to put-off things which seem like a lot of effort. It can be fun to lie around, spend your time watching TV, surfing cyberspace, playing games and otherwise. But, the truth is that laziness is a cheat. It's a siren that promises you gratifications and rewards which it ultimately fails to deiver. DOING NOTHING LOOKS VERY APPEALING, but in the end leaves you depressed and hollow. Overcoming laziness is about seeing through the false enticement and learning how to build a powerful inner commitment to yourself."
+        },
+        {
+            "id": "48",
+            "title": "Extra-Mile",
+            "text": "Your success in your career will be in direct proportion to what you do after you've done what you are expected to do."
+        },
+        {
+            "id": "49",
+            "title": "Preparation",
+            "text": "Winning is determined by what happens before the game."
+        },
+        {
+            "id": "50",
+            "title": "Irreversible",
+            "text": "You only live once and just don't waste a minute of your life."
+        },
+        {
+            "id": "51",
+            "title": "Feasibility",
+            "text": "When nothing is sure, everything is possible."
+        },
+        {
+            "id": "52",
+            "title": "Dreaming",
+            "text": "Fantasizing about the future; make this as a favourite pastimes of yours."
+        },
+        {
+            "id": "53",
+            "title": "Noticeable",
+            "text": "Champions never brag, never shout, never have to go to extremes to build themselves up for others or put others down. They let their actions, deeds, and results speak for them."
+        },
+        {
+            "id": "54",
+            "title": "Be-Adept",
+            "text": "Stop waiting around for bosses and companies to get better and complaining about how are you treated. Build the skills and use them that will permit you to create the environment in which you want to live."
+        },
+        {
+            "id": "55",
+            "title": "Flop",
+            "text": "There are no smart people or stupid people, just people BEING smart and BEING stupid. Being smart means thinking things through - trying to find the real answer, not the first answer. Being stupid means avoiding thinking by jumping to conclusions. Jumping to conclusion is like quitting a game: you lose by default."
+        },
+        {
+            "id": "56",
+            "title": "Progress",
+            "text": "Never be satisfied with what you achieve, because it all pales in comparison with WHAT YOU ARE CAPABLE of doing in the future."
+        },
+        {
+            "id": "57",
+            "title": "A Myth",
+            "text": "We speak of searching for happiness, of finding contentment, as if these were locations in an atlas, actual places that we could visit if only we had the proper map and the right navigational skills."
+        },
+        {
+            "id": "58",
+            "title": "Trust changes everything",
+            "text": "If you know how to become trusted, you will not need any technique. As trust within an organization increases, so do output, morale, productivity and loyalty. For the trusted brands, customers will pay more, come back and tell others, resulting in incredible benefits. Having trust as edge is the greatest competitive advantage of all time."
+        },
+        {
+            "id": "59",
+            "title": "Gratified",
+            "text": "It never hurts to think too highly of a person, often they become ennobled to act better because of it."
+        },
+        {
+            "id": "60",
+            "title": "Tolerate",
+            "text": "When things fall apart, DO NOT REBUKE your heart by filling it up with insecurities."
+        },
+        {
+            "id": "61",
+            "title": "Punctilious",
+            "text": "Punctuality is important to me. Because, I realize that paying attention to time is paramount. My punctuality sends out a positive message about me to others. It brings me great pride to know that others can depend on me to be on time, I recognize my life is better because I focus on punctuality."
+        },
+        {
+            "id": "62",
+            "title": "Terminate",
+            "text": "Decades-old grudges, unresolved arguments, long-held misconceptions, and insignificant, tiny lies are splinters of our emotional lives. They distress you and hold you back more than you can imagine. END THEM. Put past hurts away. Let go of this heavy emotional baggage and make space for love, joy and compassion into your heart."
+        },
+        {
+            "id": "63",
+            "title": "Expouse",
+            "text": "A belief is not an idea held by the mind, it is an idea that HOLDS THE MIND."
+        },
+        {
+            "id": "64",
+            "title": "Tuning",
+            "text": "To achieve more objectivity, detach yourself from the struggle. Have confidence in yourself, and realize that you can change your attitude even if you can't change the circumstances."
+        },
+        {
+            "id": "65",
+            "title": "Personify",
+            "text": "... 80% of a child's character is formed by the age of five, so the example parents set in living consistent lives of integrity and playing according to the rules of the game is a key ingredient. If kids see parents playing it straight and not cheating at home, on the highways or in their business, the kids are far less likely to cheat in school."
+        },
+        {
+            "id": "66",
+            "title": "Toughness",
+            "text": "Do not wait to strike till the iron is hot; but make it hot by striking."
+        },
+        {
+            "id": "67",
+            "title": "Decelerate",
+            "text": "Think, speak, drive, text, listen, cook, eat, and walk slower. When you slow down, you'll FEEL MORE IN CONTROL of your options and your inner life."
+        },
+        {
+            "id": "68",
+            "title": "Hang-on",
+            "text": "Life does not use a simple linear equation: effort in  = result out. Sometimes, a LOT of effort is needed to get the result you desire. Sometimes, the results you desire take a year or so. Sometimes the results you want to come in a mysterious way. It's worth hanging on in there. You will get what you want. be patient."
+        },
+        {
+            "id": "69",
+            "title": "Get-Better",
+            "text": "Be the change you want to see in the world. It takes one person, one moment, one action."
+        },
+        {
+            "id": "70",
+            "title": "Empathy",
+            "text": "Have a heart that never hardens, a temper that never tires, and a touch that never hurts."
+        },
+        {
+            "id": "71",
+            "title": "Match your mindset to your goal",
+            "text": "What you think you get will determine what you will really get. You need to focus on the right actions as well as a matching mentality. No negative self-talks."
+        },
+        {
+            "id": "72",
+            "title": "An-Appeal",
+            "text": "O God! BE OUR TEACHER and HELP US in all of our endeavours. But, HELP US to learn our limitations. KEEP US ever mindful that we are not all-knowing and all-powerful. Only You can do all things. We praise Your name."
+        },
+        {
+            "id": "73",
+            "title": "Experiment",
+            "text": "If you're not prepared to be wrong, you'll never come up with anything original."
+        },
+        {
+            "id": "74",
+            "title": "Inner-directives",
+            "text": "THINK about what you THINK ABOUT. If you catch yourself thinking about unhappiness, ill health and adversity, \"change the channel\" and think about what you want to happen."
+        },
+        {
+            "id": "75",
+            "title": "Motive",
+            "text": "Great creative don't do what they do just for the applause and accolades. They do it because they love it."
+        },
+        {
+            "id": "76",
+            "title": "Futile",
+            "text": "Clearly understand, there isn't any situation that isn't made worse by worry. Worry never solves anything. Worry never prevents anything. Worry never heals anything. Worry serves only one purpose... it makes matters worse."
+        },
+        {
+            "id": "77",
+            "title": "Note-able",
+            "text": "Life sucks. But there's challenges you pull through that show that you're worthy of having it, and if you can't pull through those challenges? Well it doesn't mean that you shouldn't have a life, it just means you need to improve. Remember, your whole life is ahead of you. You could pull off something pretty damn impressive."
+        },
+        {
+            "id": "78",
+            "title": "Examine",
+            "text": "Be hones about your intentions and motivations."
+        },
+        {
+            "id": "79",
+            "title": "Misconception",
+            "text": "Most people advise \"Failure builds character\"; \"fail early and fail often.\" Don't get fooled by the above or the likes advises. If other people can't market their product, it has nothing to do with you. If other people can't build a team, it has nothing to do with you. If other people can't price their services properly, it has nothing to do with you. If other people can't earn more than they spend... well, you get it."
+        },
+        {
+            "id": "80",
+            "title": "Fortune Criterion",
+            "text": "Luck increases with the amount of chances that you take. Lucky people are not born with a silver spoon in their mouth. They are simply those who have taken more chances that average."
+        },
+        {
+            "id": "81",
+            "title": "Confront",
+            "text": "Do not be afraid to face your storms, turn toward it and lean into the wind."
+        },
+        {
+            "id": "82",
+            "title": "It is a delight",
+            "text": "God changes caterpillars into butterflies, sand int pearls and coal into diamonds using time and pressure. He's working on us too."
+        },
+        {
+            "id": "83",
+            "title": "Flinch",
+            "text": "In any given moment we have two options: to step forward into growth or to step back into safety."
+        },
+        {
+            "id": "84",
+            "title": "Mistakes contain leanings",
+            "text": "Mistakes are inevitable especially when pursuing something worthwhile. They can be disappointing and tough on the confidence but often necessary to test our true commitment to the end goal. Think! What great things are ever accomplished without failing in someway first."
+        },
+        {
+            "id": "85",
+            "title": "A matter of opinion",
+            "text": "Life is a matter of perspective. No matter what the weather, no matter what the situation we are in, if we have the right perspective in life, life will always be beautiful."
+        },
+        {
+            "id": "86",
+            "title": "Mediocre",
+            "text": "Being average means you are as close to the bottom as you are to the top."
+        },
+        {
+            "id": "87",
+            "title": "Misspend",
+            "text": "To one degree or another, we all waste precious moments with foolish activities that reveal no Light; and follow endeavours that leave no lasting impact on the lives of others. We think we're here to live a nice, comfortable life, to make money and have friends and family around. ...But there's more, ...there's always more. We came here for serious business."
+        },
+        {
+            "id": "88",
+            "title": "The mirror exercise",
+            "text": "Every morning getting up and every evening going to bed, give yourself pep talks. At first you will feel embarrassed and ridiculous, but this technique is very powerful. Ruben Gonzalez, three time told how his friend used to make him stand in front of a mirror and say to himself with emotion, \"No matter how terrible it gets I am going to make it happen!\" He would say this over and over until he believed it. Saying it with emotion will help your dream manifest itself more quickly."
+        },
+        {
+            "id": "89",
+            "title": "Imagination",
+            "text": "The problems of the world cannot possibly be solved by skeptics or cynics whose horizons are limited by the obvious realities. We need men who can dream of things that never were."
+        },
+        {
+            "id": "90",
+            "title": "Decision-making",
+            "text": "The longest journey you will ever take is the 18 inch from your head to your heart."
+        },
+        {
+            "id": "91",
+            "title": "Incomparable",
+            "text": "Everyone is born to be exceptional. You just need to decide to think differently and not care that people will say you're crazy."
+        },
+        {
+            "id": "92",
+            "title": "Moral",
+            "text": "WHEN BAD THINGS HAPPEN, look for the bright side. Ask \"what did I learn from that?\" or, \"how do I keep it from happening again?\" Don't dwell on it, move-on!."
+        },
+        {
+            "id": "93",
+            "title": "Success-Route",
+            "text": "Success is a matter of understanding and religiously practicing specific, simple habits that always lead to success."
+        },
+        {
+            "id": "94",
+            "title": "Punctuality",
+            "text": "Arriving on time is important to one's success. People always notice when you are late. It is a indicator of whether you mean what you say and can be trusted. Do not introduce doubt about this into people's minds by showing up later that expected. Create the habit of being punctual now and you won't have to worry"
+        },
+        {
+            "id": "95",
+            "title": "Enlightenment",
+            "text": "An empty head and a full heart make a sentimentalist; a full head and an empty heart make a skeptic; an empty head and an empty heart make a fool; and a full head and a full heart make a sage."
+        },
+        {
+            "id": "96",
+            "title": "Enthusiasm",
+            "text": "You can't START a fire without a SPARK."
+        },
+        {
+            "id": "97",
+            "title": "Onus",
+            "text": "When the alarm rings, it's on me to get up. When work piles up, it's on me to work through it. When relationships are strained, it's on me to fix them. When goals are undefined, it's on me to understand. When errors happen, it's on me to accept responsibility. When someone needs help, it's on me to extend a hand. When it's all on me, how do I hold it all together? It's on me."
+        },
+        {
+            "id": "98",
+            "title": "Life's-definition",
+            "text": "Its not about money, power, or prestige. It's not even about creating a fun place to work. Among the meanings of \"meaning\" are to make the world a better place. Increase the quality of life. Right a terrible wrong. Prevent the end of something good."
+        },
+        {
+            "id": "99",
+            "title": "May Consider",
+            "text": "Darwin's theory states that our expressions can have a direct impact on our emotions, rather than just being a consequence of these emotions."
+        },
+        {
+            "id": "100",
+            "title": "Appropriate",
+            "text": "Masters don't think they're masters. They think they're still beginners."
+        },
+        {
+            "id": "101",
+            "title": "Recreation",
+            "text": "We all need some time off. A change of scene and pace. Silence and solace if we're stressed. Reckless adrenaline if we're in a rut. But for those of us who think that an eternal escape from work would be paradise, don't forget that we all need a playground, and your own company is one of the best playgrounds of all."
+        },
+        {
+            "id": "102",
+            "title": "Liveliness",
+            "text": "A sense of humour... is needed armour. Joy in one's heart and some laughter on one's lips is a sign that the person down deep has a pretty good GRASP of life."
+        },
+        {
+            "id": "103",
+            "title": "Conviction",
+            "text": "What we should admire in Columbus is not his having discovered a world, but his having gone to search for it on the faith of his own opinion."
+        },
+        {
+            "id": "104",
+            "title": "Lost-Opportunity",
+            "text": "You're human. You have to love. You have to feel. You have to strive. You are here to risk your heart by putting it into something you believe in. If you avoid taking these chances, one thing is certain, you will make is safely to death someday, feeling empty and unfulfilled."
+        },
+        {
+            "id": "104",
+            "title": "Assessments",
+            "text": "Life is too short to waste any moment of time on wondering what other people think about you. In the first place, if they had better things going on in their lives, they wouldn't have the time to sit around and talk with you. What is important for us is not other's opinions of us, but what's important to us is our opinion about our self."
+        },
+        {
+            "id": "105",
+            "title": "Swap Negatives",
+            "text": "Positive and negative emotions cannot occupy the mind at the same time."
+        },
+        {
+            "id": "106",
+            "title": "Literacy",
+            "text": "Education has a ripple effect. One drop can initiate a cascade of possibility, each concentric circle gaining in size and travelling further. if you get education right, you get many things right: escape from poverty, better family health, and improved status of all."
+        },
+        {
+            "id": "107",
+            "title": "Positivism",
+            "text": "When people ask how your business doing, you should always say, \"Business is booming... It's great!\". Remember, your words have creative power. They will produce exactly what you say, so everyday you need to make positive declarations; and let these get down deep inside and change your outlook and results."
+        },
+        {
+            "id": "108",
+            "title": "Plus Point",
+            "text": "People are definitely a company's greatest asset. It doesn't make any difference whether the product is cars or cosmetics. A company is only as good as the people it keeps. There are two things to aim at in life: First to get what you want, and after that to enjoy it. ...only the wisest of mankind has achieved the second."
+        },
+        {
+            "id": "109",
+            "title": "Deflect Paltriness",
+            "text": "The things that consume us from day to day are usually pretty insignificant in the grand scheme of things. Most of them won't mater in 30 days if not 24 hours. Don't get caught up in the trivial."
+        },
+        {
+            "id": "110",
+            "title": "Get-prepared",
+            "text": "Your big moment usually comes before you're ready for it."
+        },
+        {
+            "id": "111",
+            "title": "Teaching-aids",
+            "text": "Experiences say that the teachers we need most are the people we're living with right now."
+        },
+        {
+            "id": "112",
+            "title": "Disapprove",
+            "text": "Don't let someone dim your light, simply because it's shining in their eyes."
+        },
+        {
+            "id": "113",
+            "title": "Liberate",
+            "text": "We are our own monsters as well as our own hero, and we have to rescue ourselves from ourselves."
+        },
+        {
+            "id": "114",
+            "title": "Glorify",
+            "text": "Celebrate what you want to see more of. The behaviour you want in your team or kids to do tomorrow? Reward and celebrate it today."
+        },
+        {
+            "id": "115",
+            "title": "Technique",
+            "text": "Did you know that it is impossible to please God without faith? Why? Because, God wants you to have every good and perfect thing and you can't get to it without FAITH!"
+        },
+        {
+            "id": "116",
+            "title": "Agenda",
+            "text": "Don't think about what you have done. Think only of the things you want to do, and you haven't done.."
+        },
+        {
+            "id": "117",
+            "title": "Ideals",
+            "text": "Everybody has their own private Mount Everest they were put on this earth to climb."
+        },
+        {
+            "id": "118",
+            "title": "Big-Picture",
+            "text": "If you want to understand how something really works, don't focus on the parts look at the system as a whole."
+        },
+        {
+            "id": "119",
+            "title": "Short-comings",
+            "text": "A wise man watches his faults more closely than his virtues; fools reverse the order."
+        },
+        {
+            "id": "120",
+            "title": "Comprehend",
+            "text": "Believe that good things will happen. Expectations have a way of coming true."
+        },
+        {
+            "id": "329",
+            "title": "Worthy-of-notice",
+            "text": "YOU MATTER. Somewhere, someone is thanking the universe for your existence."
+        },
+        {
+            "id": "330",
+            "title": "Leniency",
+            "text": "Every man should keep a fair sized cemetery in which to bury the faults of his friends."
+        },
+        {
+            "id": "331",
+            "title": "Outlandish",
+            "text": "Why does the thrill of soaring have to begin with the fear of failing?"
+        },
+        {
+            "id": "332",
+            "title": "Hope",
+            "text": "It is during our darkest moments that we must focus to see the light."
+        },
+        {
+            "id": "333",
+            "title": "Foundation",
+            "text": "We all forgot 80% of what got us to be successful to begin with. ...Return to the basics!"
+        },
+        {
+            "id": "334",
+            "title": "Self Realization",
+            "text": "Games make players feel something that they aren't in the real world: powerful, smart, sneaky, successful, rich, bad, or heroic"
+        },
+        {
+            "id": "335",
+            "title": "Pursue",
+            "text": "Don't be pushed by your problems; be led by your dreams."
+        },
+        {
+            "id": "336",
+            "title": "Negligence",
+            "text": "Life is denied by lack of attention, whether it be to cleaning windows or trying to write a masterpiece."
+        },
+        {
+            "id": "337",
+            "title": "Practicality",
+            "text": "There comes a time when we MUST IGNORE the ones who ignore us AND LOVE the ones who love us. Just keep moving forward with our lives."
+        },
+        {
+            "id": "338",
+            "title": "Prerequisite",
+            "text": "Work is born in us. We take to it kindly or unkindly. The terms may be easy or harsh, but the contract is binding."
+        },
+        {
+            "id": "339",
+            "title": "Renounce",
+            "text": "If the horse dies, dismount. Don't continue to pour money and effort into a lost cause."
+        },
+        {
+            "id": "340",
+            "title": "Modesty",
+            "text": "Humility will take you further than arrogance and blaming others."
+        },
+        {
+            "id": "341",
+            "title": "Diligence",
+            "text": "All work is not created equal. Try working with an awareness of the type of work you're doing and how it's helping ( or limiting) your progress."
+        },
+        {
+            "id": "342",
+            "title": "Back Tracking",
+            "text": "Comfort zones are never comfortable. They are the BIGGEST OBSTRUCTIONS to your growth."
+        },
+        {
+            "id": "343",
+            "title": "Impulsive",
+            "text": "Never make permanent decisions on temporary feelings."
+        },
+        {
+            "id": "344",
+            "title": "Inheritance",
+            "text": "There are only two lasting bequests we can hope to give our children. One of these is roots, the other, wings."
+        },
+        {
+            "id": "345",
+            "title": "Contacts",
+            "text": "A single conversation across the table with a wise person is worth more than the reading of 10 books. ...Find one and buy their lunch today."
+        },
+        {
+            "id": "346",
+            "title": "Positive Mind set is an Asset",
+            "text": "A positive attitude has no prejudice. It is not bound by color , race or religion. It does not care if one  is rich or poor. Anyone has the right to  display a positive attitude, and it makes that person much more attractive to others. As far as making a good first impression, a positive attitude is a sure fire way to show others you are likeable, friendly and a full participant in your life."
+        },
+        {
+            "id": "347",
+            "title": "It's imperative",
+            "text": "Put a value on your time, your relationships and your dreams."
+        },
+        {
+            "id": "348",
+            "title": "Upgrade",
+            "text": "You can't start the next chapter of your life; If you keep reading the last one."
+        },
+        {
+            "id": "349",
+            "title": "Fulfilment",
+            "text": "Unnecessary possessions are unnecessary burdens. If you have them, you have to take care of them! There is great freedom in simplicity of living. It is those WHO HAVE ENOUGH but not much who are the happiest."
+        },
+        {
+            "id": "350",
+            "title": "Bonding",
+            "text": "The purpose of a relationship is not to have another who might complete you; but to have another with whom you might share your completeness."
+        },
+        {
+            "id": "351",
+            "title": "Awareness",
+            "text": "Don't waste your time while you're still young and fresh. Behave well... go to school and concentrate taking a good education. Education is the best investment and tool to find a better job your dream. So, let your dreams come true."
+        },
+        {
+            "id": "352",
+            "title": "Evaluation",
+            "text": "Neither human applause nor human censure is to be taken as the test of truth; but EITHER should set us upon testing ourselves."
+        },
+        {
+            "id": "353",
+            "title": "Couch Potatoes",
+            "text": "Those who make the worst use of their time are the first to complain of its shortness."
+        },
+        {
+            "id": "354",
+            "title": "Exigencies",
+            "text": "Pressure moments are an opportunity to show how good you are."
+        },
+        {
+            "id": "355",
+            "title": "Prominence",
+            "text": "Champions never brag, never shout, never have to go to extremes to build themselves up for others or put others down. They let their actions, deeds, and results speak for them."
+        },
+        {
+            "id": "356",
+            "title": "Unique",
+            "text": "You can't conquer life by trying to fit into the mould that everyone else wants you to fit in, you can only be a true conqueror if you are willing to grab life by the horns and be yourself in all respects of it. Be an individual, instead of being a static, aim to be ONE of many."
+        },
+        {
+            "id": "357",
+            "title": "Detractors",
+            "text": "They can always find something wrong with What's Right About You."
+        },
+        {
+            "id": "358",
+            "title": "Bravery",
+            "text": "Look closely at your troubles. Don't let them cause you to give up. Befriend them and learn from them. Feel them lose their power over you. Allow them to teach you what you want to know and move on. Try not to be afraid. You're a survivor. You're going to handle this."
+        },
+        {
+            "id": "359",
+            "title": "Whimsical",
+            "text": "Don't let your emotions MAKE YOUR DECISIONS."
+        },
+        {
+            "id": "360",
+            "title": "Write journals",
+            "text": "Paper or electronics, it's no big deal. Start jotting stuff down. Quotes, references. Things to follow up. Ideas. Authors to read. A person to try and contact. Have it with you most of the time which is the possible advantage of a small paper note-book+pencil. Regularly review and consolidate. Musings and quotations, not just actions. Private to you. More scrap-book, less text-book. This is the book you are writing. This is the book which is the basis of identifying your unique brilliance. Get one. Write one. Daily, Note-book."
+        },
+        {
+            "id": "361",
+            "title": "Realization",
+            "text": "One day, in retrospect, the years of struggle will strike you as the most beautiful."
+        },
+        {
+            "id": "362",
+            "title": "Earnestness",
+            "text": "The brick walls are not there to keep us out; the brick walls are there to give us a chance to SHOW HOW BADLY we want something."
+        },
+        {
+            "id": "363",
+            "title": "Frozen",
+            "text": "Love is a symbol of eternity. It wipes out all sense of time, destroying all memory of a beginning and all fear of an end."
+        },
+        {
+            "id": "364",
+            "title": "Responsibilities",
+            "text": "The thing about monkeys on your back , is that they may throw banana peels under your feet, causing you to slip, and inevitably fall."
+        },
+        {
+            "id": "365",
+            "title": "Admire",
+            "text": "There are few things that will bring as much power and benefit to your personal and professional life as the practice of quietly appreciating the strength of others."
+        }
+    ]
+}
