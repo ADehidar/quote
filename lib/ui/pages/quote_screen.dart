@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:quotes/ui/common/quote_widget.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 class QuotesScreen extends StatefulWidget {
 
@@ -28,7 +29,13 @@ class _QuotesScreenState extends State<QuotesScreen> {
 
     return
       dataLoaded ==false ?
-      const CircularProgressIndicator():
+      Container(
+        color: Colors.redAccent,
+        child: const Center(
+             child:  SpinKitRing(
+             color: Colors.white,
+             size: 70.0 )),
+      ) :
       PageView.builder(
         controller: pageController,
         itemCount: _quotes.length,
@@ -46,18 +53,18 @@ class _QuotesScreenState extends State<QuotesScreen> {
     final data = await json.decode(response);
     setState(() {
       _quotes = data["quotes"];
-      dataLoaded = true;
+       dataLoaded = true;
     });
   }
 
   getQuote(int index){
-    Map<String, dynamic> quote = new Map<String, dynamic>.from(_quotes[index]);
+    Map<String, dynamic> quote =  Map<String, dynamic>.from(_quotes[index]);
     return quote['text'];
 
   }
 
   getQuoteTitle(int index){
-    Map<String, dynamic> quote = new Map<String, dynamic>.from(_quotes[index]);
+    Map<String, dynamic> quote =  Map<String, dynamic>.from(_quotes[index]);
     return quote['title'];
 
   }
