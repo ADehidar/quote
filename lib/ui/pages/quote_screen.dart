@@ -25,7 +25,7 @@ class _QuotesScreenState extends State<QuotesScreen> {
   @override
   Widget build(BuildContext context) {
 
-    PageController pageController =  PageController(initialPage: 5); // Set this value to the Date
+    PageController pageController =  PageController(initialPage: getFocusPage()); // Set this value to the Date
 
     return
       dataLoaded ==false ?
@@ -67,5 +67,104 @@ class _QuotesScreenState extends State<QuotesScreen> {
     Map<String, dynamic> quote =  Map<String, dynamic>.from(_quotes[index]);
     return quote['title'];
 
+  }
+
+  getFocusPage(){
+    int result =1;
+
+    final now = DateTime.now();
+
+    bool isLeapYear = checkLeapYear(now.year);
+
+    if(now.month == 1) return now.day;
+
+    int cumulativeDays = 0;
+
+    for(var i = 2 ; i < now.month; i++){
+
+      switch(i) {
+
+        case 2: {
+          if(isLeapYear) {
+            cumulativeDays += 29;
+          } else {
+            cumulativeDays +=28;
+          }
+        }
+        break;
+
+        case 3: {
+          cumulativeDays +=31;
+        }
+        break;
+
+        case 4: {
+          cumulativeDays +=30;
+        }
+        break;
+
+        case 5: {
+          cumulativeDays +=31;
+        }
+        break;
+
+        case 6: {
+          cumulativeDays +=30;
+        }
+        break;
+
+        case 7: {
+          cumulativeDays +=31;
+        }
+        break;
+
+        case 8: {
+          cumulativeDays +=31;
+        }
+        break;
+
+        case 9: {
+          cumulativeDays +=30;
+        }
+        break;
+
+        case 10: {
+          cumulativeDays +=31;
+        }
+        break;
+
+        case 11: {
+          cumulativeDays +=30;
+        }
+        break;
+
+        case 12: {
+          cumulativeDays +=31;
+        }
+        break;
+      }
+    }
+
+    result = cumulativeDays + now.day;
+
+    if(result >365) return 0;
+
+    return result-1;
+  }
+
+  checkLeapYear(int year){
+
+    bool result = false;
+
+    if(year % 400 == 0) {
+      result =  true;
+    } else if (year % 100 == 0) {
+      result =  false;
+    } else if (year % 4 == 0) {
+      result =  true;
+    } else {
+      result = false;
+    }
+    return result;
   }
 }
