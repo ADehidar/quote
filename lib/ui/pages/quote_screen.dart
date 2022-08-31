@@ -23,8 +23,13 @@ class _QuotesScreenState extends State<QuotesScreen> {
   initState() {
     super.initState();
     box = Hive.box('quoteBox');
-    if(box.length != 365) {
+    if(box.length <= 365) {
       readJson();
+    }
+    else {
+      setState(() {
+      dataLoaded = true;
+    });
     }
   }
 
