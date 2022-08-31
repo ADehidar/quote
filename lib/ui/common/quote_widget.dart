@@ -3,11 +3,11 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:quotes/styleguide/theme_text.dart';
 import 'package:random_color/random_color.dart';
 
-class Quote extends StatelessWidget {
+class QuoteWidget extends StatelessWidget {
 
   final String quote;
   final String title;
-  const Quote({Key? key,required this.quote, required this.title}) : super(key: key);
+  const QuoteWidget({Key? key,required this.quote, required this.title}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

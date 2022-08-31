@@ -1,8 +1,10 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:hive/hive.dart';
 import 'package:quotes/ui/common/quote_widget.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
+import '../model/quote.dart';
 
 class QuotesScreen extends StatefulWidget {
 
@@ -13,13 +15,17 @@ class QuotesScreen extends StatefulWidget {
 
 class _QuotesScreenState extends State<QuotesScreen> {
 
-  List _quotes = [];
   bool dataLoaded = false;
+
+  late final Box box;
 
   @override
   initState() {
     super.initState();
-    readJson();
+    box = Hive.box('quoteBox');
+    if(box.length != 365) {
+      readJson();
+    }
   }
 
   @override
@@ -38,11 +44,11 @@ class _QuotesScreenState extends State<QuotesScreen> {
       ) :
       PageView.builder(
         controller: pageController,
-        itemCount: _quotes.length,
+        itemCount: box.length,
         itemBuilder: (context,index){
-          return Quote(
-            title: getQuoteTitle(index),
-            quote: getQuote(index),
+          return QuoteWidget(
+            title: box.getAt(index).title,
+            quote: box.getAt(index).text,
           );
         });
   }
@@ -51,22 +57,27 @@ class _QuotesScreenState extends State<QuotesScreen> {
   Future<void> readJson() async {
     final String response = await rootBundle.loadString('assets/quotes.json');
     final data = await json.decode(response);
+
+    List quotes = [];
+    quotes = data["quotes"];
+
+    for(var q in quotes){
+      await _addQuote(int.parse(q['id']),q['text'],q['title']);
+    }
+
     setState(() {
-      _quotes = data["quotes"];
-       dataLoaded = true;
+      dataLoaded = true;
     });
   }
 
-  getQuote(int index){
-    Map<String, dynamic> quote =  Map<String, dynamic>.from(_quotes[index]);
-    return quote['text'];
-
-  }
-
-  getQuoteTitle(int index){
-    Map<String, dynamic> quote =  Map<String, dynamic>.from(_quotes[index]);
-    return quote['title'];
-
+  _addQuote(int quoteId, String quoteText,String quoteTitle) async {
+    Quote newQuote = Quote(
+      id: quoteId,
+      title: quoteTitle,
+      text: quoteText,
+      favourite: false
+    );
+    box.add(newQuote);
   }
 
   getFocusPage(){
